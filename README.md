@@ -1,4 +1,4 @@
-# My Streamlit App – Explore ML Models on Popular Datasets
+# My Streamlit App Explore ML Models on Popular Datasets
 
 Welcome to my interactive **Machine Learning Model Explorer** built using **Streamlit**. This app allows users to:
 
